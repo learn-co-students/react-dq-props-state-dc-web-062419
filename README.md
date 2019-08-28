@@ -26,3 +26,6 @@ In this program, we have three components: `App`, `MasterHog`, and `BabyHog`.
 - While the `changeWeight` method has been implemented in `BabyHog`, it is not 'hooked up' to the component. Make sure the function is invoked so our hogs can grow and shrink when either of the button's are clicked. (Consider how `MasterHog`'s `changeEyeColor` method is 'hooked up' if you are stuck here)
 
 ## Done
+
+## Really done this time
+
